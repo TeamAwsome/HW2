@@ -1,0 +1,1 @@
+This directory is for server side files (java files)

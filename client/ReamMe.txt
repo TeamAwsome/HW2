@@ -1,0 +1,1 @@
+This directory is for all client side files (mainly python and egg files)
